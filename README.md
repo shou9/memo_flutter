@@ -1,16 +1,12 @@
-# memo2_app
+# memo
 
-A new Flutter application.
+flutter/dartで作成したTodoリスト管理アプリです。
+構想:30m
+実装:4h30m
 
-## Getting Started
+実装内容は、Todoリストの追加、一覧、削除ができるアプリになっています。
+また、リストの中身としては、タイトル、内容、締め切り日が管理できます。
 
-This project is a starting point for a Flutter application.
+test_appフォルダ内で実際にアプリを実行したときの説明をしています。
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+libフォルダにソースコードがあります。
